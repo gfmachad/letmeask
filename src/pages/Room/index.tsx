@@ -19,7 +19,7 @@ type RoomParams = {
 	id: string;
 };
 export function Room() {
-	const {user} = useAuth();
+	const {user, signInWithGoogle} = useAuth();
 	const history = useHistory();
 	const {
 		dispatch: {translate},
@@ -116,7 +116,8 @@ export function Room() {
 							</div>
 						) : (
 							<span>
-								<button>Login</button> {translate('room_login')}.
+								<button onClick={signInWithGoogle}>Login</button>{' '}
+								{translate('room_login')}.
 							</span>
 						)}
 						<Button type='submit' disabled={!user}>
