@@ -11,7 +11,7 @@
 ## 🚀 NEXT LEVEL
 
 - The project was done in two languages, english and portuguese.
-  I used I18nextProvider - using the context API to change languages.
+  I used I18nextProvider - using the context to change languages.
 
 - The project was done only in dark mode.
 
