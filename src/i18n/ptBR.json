@@ -1,0 +1,28 @@
+{  
+  "home_create": "Crie sua sala Q&A",
+  "home_audience":"Seu público pode perguntar em tempo real",
+  "home_image":"Criar sala com o Google",
+  "home_separe":"ou entre em uma sala",
+  "home_pholder":"Coloque o código",
+  "home_btn":"ENTRAR",
+
+  "adm_room":"Sala",
+  "adm_btn": "FECHAR",
+
+  "newH_create": "Crie sua sala Q&A",
+  "newH_audience":"Seu público pode perguntar em tempo reaL",
+  "newH_createNew":"Crie uma nova sala",
+  "newH_pholder":"Nome da sala",
+  "newH_btn":"CRIAR SALA",
+  "newH_p":"Quer entrar em uma sala existente?",
+  "newH_link":"Click aqui",
+
+  "room_out": "SAIR",
+  "room_title":"Sala",
+  "room_pholder":"Qual sua pergunta?",
+  "room_questions": "pergunta(s)",
+  "room_login":"para enviar perguntas",
+  "room_send":"ENVIAR PERGUNTA",
+
+  "roomCode_btn":"Sala"
+}

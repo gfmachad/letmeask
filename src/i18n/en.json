@@ -1,0 +1,28 @@
+{  
+  "home_create": "Create your Q&A room",
+  "home_audience":"Your audience can ask you in real-time",
+  "home_image":"Create room with Google",
+  "home_separe":"or join a room",
+  "home_pholder":"Enter the code",
+  "home_btn":"ENTER",
+
+  "adm_room":"Room",
+  "adm_btn": "CLOSE",
+
+  "newH_create": "Create your Q&A room",
+  "newH_audience":"Your audience can ask you in real-time",
+  "newH_createNew":"Create a new room",
+  "newH_pholder":"Room name",
+  "newH_btn":"CREATE ROOM",
+  "newH_p":"Do you want to join an existing room?",
+  "newH_link":"Click here",
+
+  "room_out": "GET OUT",
+  "room_title":"Room",
+  "room_pholder":"What do your want question?",
+  "room_questions": "questions",
+  "room_login":"to send a question",
+  "room_send":"SEND QUESTION",
+
+  "roomCode_btn":"Room"
+}

@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+:root {
+	--purple: #7a4efd;
+	--violet: #d67ee2;
+
+	--white: #fefefe;
+	--gray: #dbdcdd;
+	--jaguar: #29292e;
+	--nero: #1a1a1a;
+}
+
+html {
+	@media (max-width: 1600px) {
+		font-size: 93.75%; //15px
+	}
+	@media (max-width: 1080px) {
+		font-size: 87.5%; /* 14px */
+	}
+	@media (max-width: 720px) {
+		font-size: 75%; /* 12px */
+	}
+}
+
+body {
+	background: var(--nero);
+	color: var(--gray);
+}
+
+body,
+input,
+button,
+textarea {
+	font: 400 1rem 'Poppins', sans-serif;
+}
